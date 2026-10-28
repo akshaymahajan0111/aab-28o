@@ -1,0 +1,42 @@
+{
+  "hero": {
+    "eyebrow": "Simple & clean",
+    "headline": "A test page that just works",
+    "subtext": "Built to be minimal, readable, and easy to extend. No clutter, no noise — just a solid starting point.",
+    "cta": "Get started"
+  },
+  "features": {
+    "heading": "What's included",
+    "items": [
+      {
+        "id": "f1",
+        "title": "Clean layout",
+        "description": "Generous whitespace and a clear visual hierarchy make everything easy to scan."
+      },
+      {
+        "id": "f2",
+        "title": "Responsive design",
+        "description": "Looks great on any screen size, from mobile to wide desktop."
+      },
+      {
+        "id": "f3",
+        "title": "Fast & lightweight",
+        "description": "No unnecessary dependencies. Just the essentials to get you moving quickly."
+      }
+    ]
+  },
+  "info": {
+    "heading": "Built for testing",
+    "body": [
+      {
+        "id": "p1",
+        "text": "This page is a simple starting point. Swap out the content, adjust the colors, and make it your own."
+      },
+      {
+        "id": "p2",
+        "text": "Everything here is inline-editable — click any text to update it directly in the preview."
+      }
+    ],
+    "cta": "Learn more"
+  }
+}
